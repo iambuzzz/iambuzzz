@@ -247,11 +247,11 @@ const ambuj = {
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=iambuzzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0d0221&title_color=f72585&icon_color=4cc9f0&text_color=e0e0e0&ring_color=f72585&rank_icon=github&custom_title=Lifetime%20GitHub%20Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=iambuzzz&hide_border=true&background=0d0221&ring=f72585&fire=4cc9f0&currStreakLabel=f72585&sideLabels=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b9e&stroke=3a0ca3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambuzzz&layout=compact&card_width=420&hide_border=true&bg_color=0d0221&title_color=f72585&text_color=ffffff&langs_count=8&custom_title=Languages%20I%20ship%20in" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambuzzz&layout=donut-vertical&hide_border=true&theme=radical&bg_color=0d0221&title_color=f72585&text_color=e0e0e0&langs_count=6" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=iambuzzz&hide_border=true&background=0d0221&ring=f72585&fire=4cc9f0&currStreakLabel=f72585&sideLabels=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b9e&stroke=3a0ca3" />
 
 </p>
 
