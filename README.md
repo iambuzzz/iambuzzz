@@ -134,6 +134,7 @@ const ambuj = {
       <a href="https://www.ammasrecipe.com" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f77f00,100:d62828&height=110&text=Amma's%20Recipe&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Production%20D2C%20e-commerce%20store&descSize=14&descAlignY=72" width="100%"/>
       </a>
+<p align="center"><a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=nextdotjs"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -157,6 +158,7 @@ const ambuj = {
       <a href="https://devtinder.iambuzzdev.in/" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f72585,100:7209b7&height=110&text=DevTinder&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Horizontally-scaled%20social%20platform&descSize=14&descAlignY=72" width="100%"/>
       </a>
+<p align="center"><a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a></p>
       <p>
         <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
@@ -183,6 +185,7 @@ const ambuj = {
       <a href="https://iambuzzdev.in/" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361ee,100:4cc9f0&height=110&text=macOS%20Portfolio&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=A%20whole%20OS%20in%20your%20browser&descSize=14&descAlignY=72" width="100%"/>
       </a>
+<p align="center"><a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a></p>
       <p>
         <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -207,6 +210,7 @@ const ambuj = {
       <a href="https://buddy-board-one.vercel.app/" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:06d6a0,100:118ab2&height=110&text=BuddyBoard&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Real-time%20accountability%20platform&descSize=14&descAlignY=72" width="100%"/>
       </a>
+<p align="center"><a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="80%" alt="BuddyBoard screenshot"/></a></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -267,3 +271,7 @@ const ambuj = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,35:7209b7,70:3a0ca3,100:0d0221&height=140&section=footer" width="100%"/>
 </p>
+
+
+
+
