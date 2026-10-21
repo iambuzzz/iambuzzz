@@ -123,18 +123,14 @@ const ambuj = {
 
 > 💡 Click any banner or screenshot to open the live project · expand **⚡ Under the hood** for the engineering
 
-<br/>
-
-<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,100:d62828&height=130&text=Amma%27s%20Recipe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Production%20D2C%20e-commerce%20store&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
-
 <table>
 <tr>
-<td width="55%" align="center">
+<td width="50%" valign="top">
 <br/>
-<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a>
-<br/><br/>
-</td>
-<td width="45%" valign="top">
+
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,100:d62828&height=150&text=Amma%27s%20Recipe&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Production%20D2C%20e-commerce%20store&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+
+<p align="center"><a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a></p>
 
 #### A real store, with real customers, live in production 🛒
 
@@ -144,7 +140,7 @@ const ambuj = {
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
 
-<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-ammasrecipe.com-f77f00?style=for-the-badge"/></a>
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-ammasrecipe.com-f77f00?style=for-the-badge"/></a>
 <a href="https://github.com/iambuzzz/ammas-recipe" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <details>
@@ -158,16 +154,12 @@ const ambuj = {
 </details>
 <br/>
 </td>
-</tr>
-</table>
-
+<td width="50%" valign="top">
 <br/>
 
-<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7209b7&height=130&text=DevTinder&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Horizontally-scaled%20social%20platform&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7209b7&height=150&text=DevTinder&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Horizontally-scaled%20social%20platform&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
 
-<table>
-<tr>
-<td width="45%" valign="top">
+<p align="center"><a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a></p>
 
 #### Tinder for developers — built to scale across servers ⚡
 
@@ -177,7 +169,7 @@ const ambuj = {
 
 <img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
-<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-devtinder-f72585?style=for-the-badge"/></a>
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-devtinder-f72585?style=for-the-badge"/></a>
 <a href="https://github.com/iambuzzz/DevTinder" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <details>
@@ -191,26 +183,14 @@ const ambuj = {
 </details>
 <br/>
 </td>
-<td width="55%" align="center">
-<br/>
-<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a>
-<br/><br/>
-</td>
 </tr>
-</table>
-
-<br/>
-
-<a href="https://iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4361ee,100:4cc9f0&height=130&text=macOS%20Portfolio&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=A%20whole%20operating%20system%20in%20your%20browser&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
-
-<table>
 <tr>
-<td width="55%" align="center">
+<td width="50%" valign="top">
 <br/>
-<a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a>
-<br/><br/>
-</td>
-<td width="45%" valign="top">
+
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4361ee,100:4cc9f0&height=150&text=macOS%20Portfolio&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=A%20whole%20OS%20in%20your%20browser&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+
+<p align="center"><a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a></p>
 
 #### macOS on laptops, iOS on phones — one codebase 💻📱
 
@@ -220,7 +200,7 @@ const ambuj = {
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 
-<a href="https://iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-iambuzzdev.in-4361ee?style=for-the-badge"/></a>
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-iambuzzdev.in-4361ee?style=for-the-badge"/></a>
 <a href="https://github.com/iambuzzz/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <details>
@@ -234,16 +214,12 @@ const ambuj = {
 </details>
 <br/>
 </td>
-</tr>
-</table>
-
+<td width="50%" valign="top">
 <br/>
 
-<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:06d6a0,100:118ab2&height=130&text=BuddyBoard&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Real-time%20accountability%20platform&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:06d6a0,100:118ab2&height=150&text=BuddyBoard&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Real-time%20accountability%20platform&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
 
-<table>
-<tr>
-<td width="45%" valign="top">
+<p align="center"><a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="72%" alt="BuddyBoard screenshot"/></a></p>
 
 #### Stay accountable with your buddy — live, in sync ⏱️
 
@@ -253,7 +229,7 @@ const ambuj = {
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge"/>
 
-<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-buddyboard-06d6a0?style=for-the-badge"/></a>
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-buddyboard-06d6a0?style=for-the-badge"/></a>
 <a href="https://github.com/iambuzzz/BuddyBoard" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <details>
@@ -267,15 +243,8 @@ const ambuj = {
 </details>
 <br/>
 </td>
-<td width="55%" align="center">
-<br/>
-<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="85%" alt="BuddyBoard screenshot"/></a>
-<br/><br/>
-</td>
 </tr>
 </table>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
