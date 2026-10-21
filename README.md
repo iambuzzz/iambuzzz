@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:3a0ca3,70:7209b7,100:f72585&height=260&section=header&text=Ambuj%20Jaiswal&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Real-time%20Systems%20%E2%80%A2%20IIIT%20Kota%20'27&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:3a0ca3,70:7209b7,100:f72585&height=260&section=header&text=Ambuj%20Jaiswal&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Real-time%20Systems%20%E2%80%A2%20IIIT%20Kota%20'27&descAlignY=60&descSize=24&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -40,24 +40,20 @@ const ambuj = {
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td width="90" align="center"><img src="https://img.shields.io/badge/NOW-f72585?style=flat-square"/></td>
-    <td>
-      <b>Freelance Full-Stack Developer</b> · <a href="https://www.ammasrecipe.com" target="_blank">Amma's Recipe</a> <sub>(D2C Food Business)</sub><br/>
-      <sub>Sep 2026 – Present · Remote</sub><br/>
-      <sub>Production e-commerce store on Next.js 16 + Supabase + Razorpay · admin dashboard · transactional emails · SEO & Google Merchant feed</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center"><img src="https://img.shields.io/badge/2026-7209b7?style=flat-square"/></td>
-    <td>
-      <b>SDE Intern</b> · Unifindss Innovations Pvt. Ltd.<br/>
-      <sub>Jun 2026 – Jul 2026 · India</sub><br/>
-      <sub>Node.js/Express services · REST APIs <b>20% faster</b> · page load <b>−17%</b> via legacy UI refactor · React components, testing & code reviews</sub>
-    </td>
-  </tr>
-</table>
+### 🍲 Freelance Full-Stack Developer · [Amma's Recipe](https://www.ammasrecipe.com)
+<img src="https://img.shields.io/badge/Now-f72585?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sep%202026%20%E2%80%93%20Present-3a0ca3?style=for-the-badge"/> <img src="https://img.shields.io/badge/Remote-1a1b27?style=for-the-badge"/>
+
+- Designed & shipped a **production e-commerce store** for a homemade-food brand — **Next.js 16 · TypeScript · Supabase**, live on Vercel with **Razorpay** payments
+- Built a full **admin dashboard** — products, orders, shipment tracking, customers & review moderation
+- Added **transactional emails** (Resend + React Email), verified-buyer reviews and **SEO** (JSON-LD, Google Merchant feed, sitemap)
+
+### 🏢 SDE Intern · Unifindss Innovations Pvt. Ltd.
+<img src="https://img.shields.io/badge/Jun%202026%20%E2%80%93%20Jul%202026-3a0ca3?style=for-the-badge"/> <img src="https://img.shields.io/badge/India-1a1b27?style=for-the-badge"/>
+
+- Built scalable backend services with **Node.js & Express.js**
+- Optimized REST APIs — **response time ↓ 20%**
+- Refactored legacy UI components — **page load ↓ 17%**
+- Shipped responsive **React** components; owned debugging, testing & code reviews
 
 ## 🧰 Tech Arsenal
 
@@ -70,53 +66,53 @@ const ambuj = {
     <td align="center"><b>🎨 Frontend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,kafka&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Better%20Auth-111?style=flat-square&logo=auth0&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Better%20Auth-111?style=for-the-badge&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Data</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,prisma&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>☁️ Cloud & Tools</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,git,github,postman&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🤖 AI-Assisted Dev</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>📚 Core CS</b></td>
     <td>
-      <img src="https://img.shields.io/badge/DSA-f72585?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OOPs-7209b7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DBMS-3a0ca3?style=flat-square"/>
-      <img src="https://img.shields.io/badge/System%20Design%20(HLD)-4361ee?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DSA-f72585?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OOPs-7209b7?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/DBMS-3a0ca3?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/System%20Design%20(HLD)-4361ee?style=for-the-badge"/>
     </td>
   </tr>
 </table>
@@ -124,112 +120,162 @@ const ambuj = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Work
-<sub>👆 Click any banner to open it live · expand <b>⚡ Under the hood</b> for the engineering</sub>
-<br/><br/>
+
+> 💡 Click any banner or screenshot to open the live project · expand **⚡ Under the hood** for the engineering
+
+<br/>
+
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,100:d62828&height=130&text=Amma%27s%20Recipe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Production%20D2C%20e-commerce%20store&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
 
 <table>
-  <tr>
-    <!-- ───── Amma's Recipe ───── -->
-    <td width="50%" valign="top">
-      <a href="https://www.ammasrecipe.com" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f77f00,100:d62828&height=110&text=Amma's%20Recipe&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Production%20D2C%20e-commerce%20store&descSize=14&descAlignY=72" width="100%"/>
-      </a>
-<p align="center"><a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=nextdotjs"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
-      </p>
-      <a href="https://www.ammasrecipe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-ammasrecipe.com-f77f00?style=for-the-badge"/></a>
-      <a href="https://github.com/iambuzzz/ammas-recipe" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-      <details>
-        <summary><b>⚡ Under the hood</b></summary>
-        <br/>
-        • Real store for a homemade-food brand — live on Vercel with Razorpay payments<br/>
-        • Admin dashboard: products, orders, shipment tracking, customers, review moderation<br/>
-        • Transactional emails with Resend + React Email<br/>
-        • Verified-buyer reviews & community feature<br/>
-        • SEO: JSON-LD, Google Merchant feed, sitemap
-      </details>
-    </td>
-    <!-- ───── DevTinder ───── -->
-    <td width="50%" valign="top">
-      <a href="https://devtinder.iambuzzdev.in/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f72585,100:7209b7&height=110&text=DevTinder&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Horizontally-scaled%20social%20platform&descSize=14&descAlignY=72" width="100%"/>
-      </a>
-<p align="center"><a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-      </p>
-      <a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-devtinder-f72585?style=for-the-badge"/></a>
-      <a href="https://github.com/iambuzzz/DevTinder" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-      <details>
-        <summary><b>⚡ Under the hood</b></summary>
-        <br/>
-        • Multi-node real-time chat — Redis shared sessions + gRPC cross-server routing<br/>
-        • Kafka offline queues for message durability<br/>
-        • Redis Pub/Sub presence deltas: broadcasts cut from <b>O(N²) → O(N)</b><br/>
-        • Nginx load balancer · S3 media · Redux Toolkit<br/>
-        • Razorpay subscriptions · EC2 + PM2 + Cloudflare SSL
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <!-- ───── Portfolio ───── -->
-    <td width="50%" valign="top">
-      <a href="https://iambuzzdev.in/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361ee,100:4cc9f0&height=110&text=macOS%20Portfolio&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=A%20whole%20OS%20in%20your%20browser&descSize=14&descAlignY=72" width="100%"/>
-      </a>
-<p align="center"><a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square"/>
-      </p>
-      <a href="https://iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-iambuzzdev.in-4361ee?style=for-the-badge"/></a>
-      <a href="https://github.com/iambuzzz/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-      <details>
-        <summary><b>⚡ Under the hood</b></summary>
-        <br/>
-        • macOS Tahoe desktop on laptops, iOS home screen on phones — one codebase<br/>
-        • AI Siri (Groq LLM + Whisper voice) that answers questions about me<br/>
-        • Sandboxed terminal with 50+ commands, virtual FS, snake & matrix<br/>
-        • Working Safari, VS Code, Spotify, Maps, FaceTime + 17 achievements<br/>
-        • Every app code-split with React.lazy · rate-limited Vercel serverless API
-      </details>
-    </td>
-    <!-- ───── BuddyBoard ───── -->
-    <td width="50%" valign="top">
-      <a href="https://buddy-board-one.vercel.app/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:06d6a0,100:118ab2&height=110&text=BuddyBoard&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Real-time%20accountability%20platform&descSize=14&descAlignY=72" width="100%"/>
-      </a>
-<p align="center"><a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="80%" alt="BuddyBoard screenshot"/></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Recharts-22b5bf?style=flat-square"/>
-      </p>
-      <a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live-buddyboard-06d6a0?style=for-the-badge"/></a>
-      <a href="https://github.com/iambuzzz/BuddyBoard" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-      <details>
-        <summary><b>⚡ Under the hood</b></summary>
-        <br/>
-        • Pairs & groups synced live via Firestore listeners<br/>
-        • Deep Work / Self-Growth / Life Break timers on epoch timestamps — drift-free<br/>
-        • Recharts bar/area charts with brush time-filtering + streak system<br/>
-        • Auto-saving notes, goal tracking, Framer Motion, dark mode
-      </details>
-    </td>
-  </tr>
+<tr>
+<td width="55%" align="center">
+<br/>
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a>
+<br/><br/>
+</td>
+<td width="45%" valign="top">
+
+#### A real store, with real customers, live in production 🛒
+
+- Full checkout with **Razorpay** payments
+- **Admin dashboard** for orders, shipments & reviews
+- **SEO-ready** — JSON-LD, Merchant feed, sitemap
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-ammasrecipe.com-f77f00?style=for-the-badge"/></a>
+<a href="https://github.com/iambuzzz/ammas-recipe" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<details>
+<summary><b>⚡ Under the hood</b></summary>
+
+- Next.js 16 App Router + TypeScript, deployed on Vercel
+- Supabase (PostgreSQL + Auth) for data & sessions
+- Transactional emails with Resend + React Email
+- Verified-buyer reviews & community feature
+
+</details>
+<br/>
+</td>
+</tr>
 </table>
+
+<br/>
+
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7209b7&height=130&text=DevTinder&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Horizontally-scaled%20social%20platform&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+#### Tinder for developers — built to scale across servers ⚡
+
+- Multi-node **real-time chat** over gRPC
+- Presence broadcasts cut from **O(N²) → O(N)**
+- **Kafka** offline queues — no message lost
+
+<img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-devtinder-f72585?style=for-the-badge"/></a>
+<a href="https://github.com/iambuzzz/DevTinder" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<details>
+<summary><b>⚡ Under the hood</b></summary>
+
+- Redis shared sessions + gRPC cross-server message routing
+- Redis Pub/Sub presence deltas
+- Nginx load balancer, AWS S3 media, Redux Toolkit
+- Razorpay subscriptions · EC2 + PM2 + Cloudflare SSL
+
+</details>
+<br/>
+</td>
+<td width="55%" align="center">
+<br/>
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4361ee,100:4cc9f0&height=130&text=macOS%20Portfolio&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=A%20whole%20operating%20system%20in%20your%20browser&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
+
+<table>
+<tr>
+<td width="55%" align="center">
+<br/>
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a>
+<br/><br/>
+</td>
+<td width="45%" valign="top">
+
+#### macOS on laptops, iOS on phones — one codebase 💻📱
+
+- **AI Siri** (Groq LLM + Whisper voice) that knows me
+- **Terminal** with 50+ commands, snake & matrix
+- Working Safari, VS Code, Spotify, Maps & more
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-iambuzzdev.in-4361ee?style=for-the-badge"/></a>
+<a href="https://github.com/iambuzzz/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<details>
+<summary><b>⚡ Under the hood</b></summary>
+
+- React 18 + TypeScript + Zustand + Framer Motion, built with Vite
+- Every app code-split with React.lazy
+- 17 unlockable achievements tracked in Settings
+- Rate-limited Vercel serverless API
+
+</details>
+<br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:06d6a0,100:118ab2&height=130&text=BuddyBoard&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Real-time%20accountability%20platform&descSize=20&descAlignY=76&animation=fadeIn" width="100%"/></a>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+#### Stay accountable with your buddy — live, in sync ⏱️
+
+- Pairs & groups synced **live** via Firestore
+- **Drift-free timers** on epoch timestamps
+- Progress **charts + streaks** to stay consistent
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge"/>
+
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-buddyboard-06d6a0?style=for-the-badge"/></a>
+<a href="https://github.com/iambuzzz/BuddyBoard" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<details>
+<summary><b>⚡ Under the hood</b></summary>
+
+- Deep Work / Self-Growth / Life Break timer modes
+- Recharts bar/area charts with brush time-filtering
+- Auto-saving notes & goal tracking
+- Tailwind CSS, Framer Motion, dark mode
+
+</details>
+<br/>
+</td>
+<td width="55%" align="center">
+<br/>
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="85%" alt="BuddyBoard screenshot"/></a>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -256,7 +302,6 @@ const ambuj = {
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=iambuzzz&hide_border=true&background=0d0221&ring=f72585&fire=4cc9f0&currStreakLabel=f72585&sideLabels=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b9e&stroke=3a0ca3" />
-
 </p>
 
 <p align="center">
@@ -271,7 +316,3 @@ const ambuj = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,35:7209b7,70:3a0ca3,100:0d0221&height=140&section=footer" width="100%"/>
 </p>
-
-
-
-
