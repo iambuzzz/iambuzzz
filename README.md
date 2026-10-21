@@ -128,7 +128,7 @@ const ambuj = {
 <td width="50%" valign="top">
 <br/>
 
-<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,100:d62828&height=150&text=Amma%27s%20Recipe&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Production%20D2C%20e-commerce%20store&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+<a href="https://www.ammasrecipe.com" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,100:d62828&height=150&text=Amma%27s%20Recipe&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Production%20D2C%20e-commerce%20store&descSize=22&descAlignY=72&animation=fadeIn" width="100%"/></a>
 
 <p align="center"><a href="https://www.ammasrecipe.com" target="_blank"><img src="https://github.com/user-attachments/assets/697765fc-91cd-44bd-93f7-c4d0b522be05" width="100%" alt="Amma's Recipe screenshot"/></a></p>
 
@@ -157,7 +157,7 @@ const ambuj = {
 <td width="50%" valign="top">
 <br/>
 
-<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7209b7&height=150&text=DevTinder&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Horizontally-scaled%20social%20platform&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+<a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7209b7&height=150&text=DevTinder&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Horizontally-scaled%20social%20platform&descSize=22&descAlignY=72&animation=fadeIn" width="100%"/></a>
 
 <p align="center"><a href="https://devtinder.iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/e96cb396-248b-40be-b288-3ede932b81d3" width="100%" alt="DevTinder screenshot"/></a></p>
 
@@ -188,7 +188,7 @@ const ambuj = {
 <td width="50%" valign="top">
 <br/>
 
-<a href="https://iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4361ee,100:4cc9f0&height=150&text=macOS%20Portfolio&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=A%20whole%20OS%20in%20your%20browser&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+<a href="https://iambuzzdev.in/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4361ee,100:4cc9f0&height=150&text=macOS%20Portfolio&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=A%20whole%20OS%20in%20your%20browser&descSize=22&descAlignY=72&animation=fadeIn" width="100%"/></a>
 
 <p align="center"><a href="https://iambuzzdev.in/" target="_blank"><img src="https://github.com/user-attachments/assets/b77f5ac2-16e5-41c9-a705-35e4338b759d" width="100%" alt="macOS Portfolio screenshot"/></a></p>
 
@@ -217,7 +217,7 @@ const ambuj = {
 <td width="50%" valign="top">
 <br/>
 
-<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:06d6a0,100:118ab2&height=150&text=BuddyBoard&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Real-time%20accountability%20platform&descSize=32&descAlignY=74&animation=fadeIn" width="100%"/></a>
+<a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:06d6a0,100:118ab2&height=150&text=BuddyBoard&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Real-time%20accountability%20platform&descSize=22&descAlignY=72&animation=fadeIn" width="100%"/></a>
 
 <p align="center"><a href="https://buddy-board-one.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/717beaf4-ba7a-4227-b889-f6441941045e" width="72%" alt="BuddyBoard screenshot"/></a></p>
 
