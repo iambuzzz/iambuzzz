@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=%3E+npm+run+build+--ambition;Shipping+production-grade+full-stack+apps+%F0%9F%9A%80;Kafka+%E2%80%A2+gRPC+%E2%80%A2+Redis+%E2%80%A2+Next.js+%E2%80%A2+AWS;600%2B+DSA+problems+%E2%80%A2+LeetCode+1830+%E2%9A%A1;Open+to+SDE+roles+%E2%80%94+let's+build+something+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=%3E+npm+run+build+--ambition;Shipping+production-grade+full-stack+apps+%F0%9F%9A%80;Kafka+%E2%80%A2+gRPC+%E2%80%A2+Redis+%E2%80%A2+Next.js+%E2%80%A2+AWS;650%2B+DSA+problems+%E2%80%A2+LeetCode+Knight+1867+%E2%9A%A1;Open+to+SDE+roles+%E2%80%94+let's+build+something+%E2%9C%A8" alt="typing" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ const ambuj = {
   role      : "Full-Stack Engineer",
   loves     : ["real-time systems", "event-driven architecture", "clean UI"],
   shipped   : ["Amma's Recipe (live D2C store)", "DevTinder", "macOS Portfolio", "BuddyBoard"],
-  dsa       : { solved: "600+", leetcode: 1830, codechef: "2★ (1585)" },
+  dsa       : { solved: "650+", leetcode: "Knight (1867)", codechef: "3★ (1611)" },
   status    : "🟢 Open to SDE internships & 2027 full-time roles",
 };
 ```
@@ -251,9 +251,9 @@ const ambuj = {
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/iambuzz/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1830%20max-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/iambuzz" target="_blank"><img src="https://img.shields.io/badge/CodeChef-2★%20·%201585-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/iambuzz" target="_blank"><img src="https://img.shields.io/badge/Codolio-600%2B%20solved-f72585?style=for-the-badge"/></a>
+  <a href="https://leetcode.com/u/iambuzz/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Knight%20·%201867-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/iambuzz" target="_blank"><img src="https://img.shields.io/badge/CodeChef-3★%20·%201611-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/iambuzz" target="_blank"><img src="https://img.shields.io/badge/Codolio-650%2B%20solved-f72585?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
